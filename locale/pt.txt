@@ -1,0 +1,60 @@
+#: locale=pt
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_833CB9A1_99D9_28F3_41BC_D79154C7B9BA.url = media/map_5C9007AF_5078_E1A6_41A9_171713DDAE54_pt_0.png
+imlevel_833C89A2_99D9_28F1_41D1_BF52465710DD.url = media/map_5C9007AF_5078_E1A6_41A9_171713DDAE54_pt_1.png
+imlevel_833C69A2_99D9_28F1_41C2_9E69AE00A7F1.url = media/map_5C9007AF_5078_E1A6_41A9_171713DDAE54_pt_2.png
+imlevel_833C79A2_99D9_28F1_41D8_90F1BDB90E89.url = media/map_5C9007AF_5078_E1A6_41A9_171713DDAE54_pt_3.png
+imlevel_833C49A2_99D9_28F1_41D4_D5A429785184.url = media/map_5C9007AF_5078_E1A6_41A9_171713DDAE54_pt_4.png
+
+### Title
+panorama_8EDE9210_99AB_5BD1_41CF_27986E0DDA77.label = BANHEIRO_CORREÇÃO FEVEREIRO
+panorama_3C876059_376F_AF4A_41C3_8E2B876D0ECE.label = Corredor
+panorama_3C8B81B4_376F_D1D9_41CA_E50E8FEF7990.label = Cozinha
+panorama_3C87CE3B_3790_52CE_41AA_8831000AC08E.label = Hall
+map_5C9007AF_5078_E1A6_41A9_171713DDAE54.label = PLANTA HUMANIZADA
+panorama_8ADD9C6E_987A_E871_41DE_5DDE023C83E4.label = QUARTO INFANTIL
+panorama_3C877F62_376F_B17E_41B9_0288B437C876.label = Quarto Casal
+panorama_3A033A5D_376F_F34B_41A1_BECE58E87FD6.label = Sala
+panorama_3C873931_376F_DEDB_41C8_350BE112D8B0.label = Área de Serviço
+
+## Skin
+
+### Button
+Button_97443CC5_9859_28B2_41D1_6CB364E75DBD.label = BANHEIRO
+Button_4FC73182_519F_3E5E_41A4_33B5E2F46A9C_mobile.label = BANHEIRO
+Button_4E3F46FA_519F_23AE_41C1_133F6320426C_mobile.label = CORREDOR
+Button_968EBC49_9859_2FB3_41CD_23FE7BBC01D1.label = CORREDOR
+Button_4E13EF08_5189_2269_41C0_1D80428F89D5_mobile.label = COZINHA
+Button_4E13EF08_5189_2269_41C0_1D80428F89D5.label = COZINHA
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.label = HALL
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.label = HALL
+Button_4FE7A2E3_519B_23DF_41CD_241040CE59DF_mobile.label = QUARTO CASAL
+Button_968FA2ED_985F_5873_41BF_86BB395E9956.label = QUARTO CASAL
+Button_4FEBA1E3_519B_E1DF_41CD_C1C92EE09193_mobile.label = QUARTO INFANITL
+Button_966A0E91_985F_28D3_41D4_088F213835DF.label = QUARTO INFANTIL
+Button_71C24CC3_518F_27DF_4176_86CBE0577347_mobile.label = SALA
+Button_71C24CC3_518F_27DF_4176_86CBE0577347.label = SALA 
+Button_4F9380F3_5199_1FBF_41A4_200CBB2482F7.label = ÁREA DE SERVIÇOS
+Button_4F9380F3_5199_1FBF_41A4_200CBB2482F7_mobile.label = ÁREA DE SERVIÇOS
+
+### Image
+Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_mobile.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_mobile_pt.png
+Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_pt.png
+
+### Multiline Text
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;word-break:break-word;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;word-break:break-word;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;word-break:break-word;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;word-break:break-word;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;word-break:break-word;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;word-break:break-word;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;word-break:break-word;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;word-break:break-word;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+tour.description = Tour Apartamento  \
+
+
+### Title
+tour.name = Dose Studio 3D
